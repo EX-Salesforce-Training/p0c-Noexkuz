@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Route_1</fullName>
+    <columns>NAME</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Route__c</field>
+        <operation>equals</operation>
+        <value>ROUTE-0001</value>
+    </filters>
+    <filters>
+        <field>Delivery_Status__c</field>
+        <operation>equals</operation>
+        <value>Un-Delivered.</value>
+    </filters>
+    <label>Route 1</label>
+    <sharedTo>
+        <role>Mail_Handler</role>
+        <role>Route_1</role>
+    </sharedTo>
+</ListView>
