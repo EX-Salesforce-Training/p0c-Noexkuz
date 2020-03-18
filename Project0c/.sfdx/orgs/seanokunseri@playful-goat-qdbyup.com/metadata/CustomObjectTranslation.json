@@ -1,0 +1,70 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0056g000004N7bOAAS",
+      "createdByName": "Sean Okunseri",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Inhabitant__c-en_US.objectTranslation",
+      "fullName": "Inhabitant__c-en_US",
+      "id": "",
+      "lastModifiedById": "0056g000004N7bOAAS",
+      "lastModifiedByName": "Sean Okunseri",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    },
+    {
+      "createdById": "0056g000004N7bOAAS",
+      "createdByName": "Sean Okunseri",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Route__c-en_US.objectTranslation",
+      "fullName": "Route__c-en_US",
+      "id": "",
+      "lastModifiedById": "0056g000004N7bOAAS",
+      "lastModifiedByName": "Sean Okunseri",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    },
+    {
+      "createdById": "0056g000004N7bOAAS",
+      "createdByName": "Sean Okunseri",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Address__c-en_US.objectTranslation",
+      "fullName": "Address__c-en_US",
+      "id": "",
+      "lastModifiedById": "0056g000004N7bOAAS",
+      "lastModifiedByName": "Sean Okunseri",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    },
+    {
+      "createdById": "0056g000004N7bOAAS",
+      "createdByName": "Sean Okunseri",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Mail__c-en_US.objectTranslation",
+      "fullName": "Mail__c-en_US",
+      "id": "",
+      "lastModifiedById": "0056g000004N7bOAAS",
+      "lastModifiedByName": "Sean Okunseri",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    },
+    {
+      "createdById": "0056g000004N7bOAAS",
+      "createdByName": "Sean Okunseri",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Package__c-en_US.objectTranslation",
+      "fullName": "Package__c-en_US",
+      "id": "",
+      "lastModifiedById": "0056g000004N7bOAAS",
+      "lastModifiedByName": "Sean Okunseri",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0056g000004N7bOAAS",
+      "createdByName": "Sean Okunseri",
+      "createdDate": "2020-03-15T00:50:58.000Z",
+      "fileName": "groups/ROUTE_0.group",
+      "fullName": "ROUTE_0",
+      "id": "00G6g000000fJYuEAM",
+      "lastModifiedById": "0056g000004N7bOAAS",
+      "lastModifiedByName": "Sean Okunseri",
+      "lastModifiedDate": "2020-03-15T00:50:58.000Z",
+      "type": "Group"
+    },
+    {
+      "createdById": "0056g000004N7bOAAS",
+      "createdByName": "Sean Okunseri",
+      "createdDate": "2020-03-15T00:51:15.000Z",
+      "fileName": "groups/ROUTE_1.group",
+      "fullName": "ROUTE_1",
+      "id": "00G6g000000fJYzEAM",
+      "lastModifiedById": "0056g000004N7bOAAS",
+      "lastModifiedByName": "Sean Okunseri",
+      "lastModifiedDate": "2020-03-15T00:51:15.000Z",
+      "type": "Group"
+    },
+    {
+      "createdById": "0056g000004N7bOAAS",
+      "createdByName": "Sean Okunseri",
+      "createdDate": "2020-03-15T00:19:51.000Z",
+      "fileName": "groups/FedEX.group",
+      "fullName": "FedEX",
+      "id": "00G6g000000fJYpEAM",
+      "lastModifiedById": "0056g000004N7bOAAS",
+      "lastModifiedByName": "Sean Okunseri",
+      "lastModifiedDate": "2020-03-15T21:59:16.000Z",
+      "type": "Group"
+    }
+  ]
+}
