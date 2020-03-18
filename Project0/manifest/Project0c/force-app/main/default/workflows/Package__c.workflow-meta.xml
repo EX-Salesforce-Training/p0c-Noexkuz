@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>Insurance_Payout_Was_Approved</fullName>
+        <description>Insurance Payout Was Approved</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>FedEX_CEO</recipient>
+            <type>role</type>
+        </recipients>
+        <recipients>
+            <recipient>Manager</recipient>
+            <type>role</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/Insurance_Payout</template>
+    </alerts>
+    <alerts>
+        <fullName>Low_Tier_Payout_Approved</fullName>
+        <description>Low Tier Payout Approved</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>gvika@inteldev2020.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>seanokunseri@playful-goat-qdbyup.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/Insurance_Payout</template>
+    </alerts>
+    <fieldUpdates>
+        <fullName>Amount_Reset2</fullName>
+        <field>Insurance_Amount__c</field>
+        <name>Amount Reset2</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Null</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Insurance_Amount_Reset</fullName>
+        <field>Insurance_Amount__c</field>
+        <name>Insurance Amount Reset</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Null</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Insurance_Reset2</fullName>
+        <field>Insurance__c</field>
+        <literalValue>0</literalValue>
+        <name>Insurance Reset2</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Insurance_Rest</fullName>
+        <field>Insurance__c</field>
+        <literalValue>0</literalValue>
+        <name>Insurance Rest</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Rejected_Approval</fullName>
+        <field>Delivery_Status__c</field>
+        <literalValue>Un-Delivered</literalValue>
+        <name>Rejected Approval</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Rejected_Approval2</fullName>
+        <field>Delivery_Status__c</field>
+        <literalValue>Un-Delivered</literalValue>
+        <name>Rejected Approval2</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+</Workflow>
