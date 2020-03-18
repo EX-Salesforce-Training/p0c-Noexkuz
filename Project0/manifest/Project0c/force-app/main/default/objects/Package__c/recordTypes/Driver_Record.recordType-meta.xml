@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Driver_Record</fullName>
+    <active>true</active>
+    <label>Driver Record</label>
+    <picklistValues>
+        <picklist>Delivery_Status__c</picklist>
+        <values>
+            <fullName>Delivered</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Un-Delivered</fullName>
+            <default>true</default>
+        </values>
+    </picklistValues>
+</RecordType>
